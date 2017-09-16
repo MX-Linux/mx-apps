@@ -10,7 +10,8 @@ Architecture: all
 Depends:
  mx-antix-libs,
  mx-bootrepair,
- mx-broadcom-manager,
+ mx-network-assistant,
+ mx-system,
  mx-clocky,
  mx-codecs,
  mx-defaultlook,
