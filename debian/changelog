@@ -1,4 +1,10 @@
-mx-apps (17.09.01) mx; urgency=medium
+mx-apps (18.03.01mx16) mx; urgency=medium
+
+  * adding mx-live-usb-maker 
+
+ -- Dolphin Oracle <dolphin@littlebyte>  Mon, 05 Mar 2018 19:14:27 -0500
+
+mx-apps (17.09.01mx16) mx; urgency=medium
 
   * mx-system
 

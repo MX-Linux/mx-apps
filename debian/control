@@ -34,7 +34,7 @@ Depends:
  system-config-samba,
  live-kernel-updater,
  live-usb-maker,
- live-usb-maker-gui,
+ mx-live-usb-maker,
  ddm-mx,
  apt-transport-https
 Breaks: docs-mx,
