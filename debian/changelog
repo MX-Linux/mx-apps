@@ -1,3 +1,76 @@
+mx-apps (20.03.01) mx; urgency=medium
+
+  * update control file 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 30 Mar 2020 22:31:49 -0400
+
+mx-apps (19.10.03) mx; urgency=medium
+
+  * remove depend on chroot-rescue-mx 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 21 Oct 2019 12:17:14 -0400
+
+mx-apps (19.10.02) mx; urgency=medium
+
+  * fix chroot-resuce entry in postinst
+  * add bash-config 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 20 Oct 2019 12:45:34 -0400
+
+mx-apps (19.10.01) mx; urgency=medium
+
+  * add chroot-rescue (antiX)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 19 Oct 2019 22:10:42 -0400
+
+mx-apps (19.09.01) mx; urgency=medium
+
+  * add mx-datetime 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 06 Sep 2019 19:32:11 -0400
+
+mx-apps (19.08.01) mx; urgency=medium
+
+  * add formatusb 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 12 Aug 2019 21:28:29 -0400
+
+mx-apps (19.07.02) mx; urgency=medium
+
+  * remove mx-switchuser 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 22 Jul 2019 21:48:33 -0400
+
+mx-apps (19.07.01) mx; urgency=medium
+
+  * remove mx-antix-libs 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 20 Jul 2019 19:25:42 -0400
+
+mx-apps (19.06.01) mx; urgency=medium
+
+  * buster 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 01 Jun 2019 18:00:56 -0400
+
+mx-apps (19.02.01) mx; urgency=medium
+
+  * remove installer from mx-apps 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 08 Feb 2019 20:38:04 -0500
+
+mx-apps (18.08mx17) mx; urgency=medium
+
+  * added mx-boot-options 
+
+ -- Dolphin Oracle <dolphin@mx>  Mon, 06 Aug 2018 20:39:26 -0400
+
+mx-apps (18.06mx17) mx; urgency=medium
+
+  * added mx-cleanup 
+
+ -- Dolphin Oracle <dolphin@mx>  Tue, 12 Jun 2018 20:15:37 -0400
+
 mx-apps (18.03.01mx16) mx; urgency=medium
 
   * adding mx-live-usb-maker 

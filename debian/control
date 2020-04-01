@@ -1,42 +1,43 @@
 Source: mx-apps
 Section: system
 Priority: optional
-Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Maintainer: Dolphin Oracle <dolphinoracle@gmail.com>
 Build-Depends: debhelper (>=7.0)
 Standards-Version: 3.9.5
 
 Package: mx-apps
 Architecture: all
 Depends:
- mx-antix-libs,
+ bash-config,
  mx-bootrepair,
- mx-network-assistant,
- mx-system,
- mx-clocky,
+ mx-boot-options,
+ mx-conky,
  mx-codecs,
- mx-defaultlook,
+ mx-datetime,
  mx-docs,
- mx-installer,
  mx-menu-editor,
+ mx-network-assistant,
  mx-packageinstaller,
  mx-remaster,
  mx-remastercc,
  mx-repo-manager,
  mx-select-sound,
  mx-snapshot,
- mx-switchuser,
  mx-system-sounds,
  mx-tools,
+ mx-tweak,
  mx-usb-unmounter,
  mx-user,
  mx-viewer,
  mx-welcome,
- system-config-samba,
+ mx-live-usb-maker,
  live-kernel-updater,
  live-usb-maker,
- mx-live-usb-maker,
+ mx-idevice-mounter,
  ddm-mx,
- apt-transport-https
+ conky-toggle-mx,
+ formatusb,
+ mx-cleanup
 Breaks: docs-mx,
  install-meta-mx,
  installer-mx,
