@@ -37,6 +37,7 @@ Depends:
  ddm-mx,
  conky-toggle-mx,
  formatusb,
+ system-keyboard-qt,
  mx-cleanup
 Breaks: docs-mx,
  install-meta-mx,

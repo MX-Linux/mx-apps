@@ -30,6 +30,7 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
  conky-toggle-mx \
  ddm-mx \
  formatusb \
+ system-keyboard-qt \
  mx-cleanup 
 fi
 
