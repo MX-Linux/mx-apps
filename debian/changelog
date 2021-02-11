@@ -1,3 +1,9 @@
+mx-apps (21.02.02mx21) mx; urgency=medium
+
+  * initial bullseye  
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 11 Feb 2021 13:25:00 -0500
+
 mx-apps (21.02.01) mx; urgency=medium
 
   * add system-keyboard-qt 
