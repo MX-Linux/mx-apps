@@ -33,7 +33,6 @@ Depends:
  mx-live-usb-maker,
  live-kernel-updater,
  live-usb-maker,
- mx-idevice-mounter,
  ddm-mx,
  conky-toggle-mx,
  formatusb,
