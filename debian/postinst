@@ -1,7 +1,7 @@
 #!/bin/sh -e
 
 if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remove" ] ; then
-    apt-mark manual apt-notifier \ 
+    apt-mark manual apt-notifier \
  bash-config \
  mx-boot-options \
  mx-bootrepair \
