@@ -1,3 +1,9 @@
+mx-apps (21.02.02mx22) mx; urgency=medium
+
+  * add mx-idevice-mounter and apt-notifier back 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 16 Mar 2021 20:33:01 -0400
+
 mx-apps (21.02.02mx21) mx; urgency=medium
 
   * initial bullseye  

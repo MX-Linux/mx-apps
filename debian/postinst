@@ -1,13 +1,16 @@
 #!/bin/sh -e
 
 if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remove" ] ; then
-    apt-mark manual mx-bootrepair \
+    apt-mark manual apt-notifier \ 
  bash-config \
  mx-boot-options \
+ mx-bootrepair \
  mx-conky \
  mx-codecs \
  mx-datetime \
  mx-docs \
+ mx-idevice-mounter \
+ mx-updater \
  mx-menu-editor \
  mx-network-assistant \
  mx-packageinstaller \

@@ -8,6 +8,7 @@ Standards-Version: 3.9.5
 Package: mx-apps
 Architecture: all
 Depends:
+ apt-notifier,
  bash-config,
  mx-bootrepair,
  mx-boot-options,
@@ -15,6 +16,7 @@ Depends:
  mx-codecs,
  mx-datetime,
  mx-docs,
+ mx-idevice-mounter,
  mx-menu-editor,
  mx-network-assistant,
  mx-packageinstaller,
