@@ -8,13 +8,16 @@ Standards-Version: 3.9.5
 Package: mx-apps
 Architecture: all
 Depends:
+ apt-notifier,
  bash-config,
+ job-scheduler,
  mx-bootrepair,
  mx-boot-options,
  mx-conky,
  mx-codecs,
  mx-datetime,
  mx-docs,
+ mx-idevice-mounter,
  mx-menu-editor,
  mx-network-assistant,
  mx-packageinstaller,
@@ -33,7 +36,6 @@ Depends:
  mx-live-usb-maker,
  live-kernel-updater,
  live-usb-maker,
- mx-idevice-mounter,
  ddm-mx,
  conky-toggle-mx,
  formatusb,

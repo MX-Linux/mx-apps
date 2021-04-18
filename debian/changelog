@@ -1,3 +1,21 @@
+mx-apps (21.04.01mx21) mx; urgency=medium
+
+  * add job-scheduler 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 18 Apr 2021 18:40:53 -0400
+
+mx-apps (21.03.01mx21) mx; urgency=medium
+
+  * add mx-idevice-mounter and apt-notifier back 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 16 Mar 2021 20:33:01 -0400
+
+mx-apps (21.02.02mx21) mx; urgency=medium
+
+  * initial bullseye  
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 11 Feb 2021 13:25:00 -0500
+
 mx-apps (21.02.01) mx; urgency=medium
 
   * add system-keyboard-qt 
