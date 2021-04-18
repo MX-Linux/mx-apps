@@ -10,6 +10,7 @@ Architecture: all
 Depends:
  apt-notifier,
  bash-config,
+ job-scheduler,
  mx-bootrepair,
  mx-boot-options,
  mx-conky,
