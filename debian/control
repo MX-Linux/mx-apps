@@ -10,6 +10,7 @@ Architecture: all
 Depends:
  apt-notifier,
  bash-config,
+ disk-manager,
  job-scheduler,
  mx-bootrepair,
  mx-boot-options,
@@ -25,6 +26,7 @@ Depends:
  mx-remastercc,
  mx-repo-manager,
  mx-select-sound,
+ mx-samba-config,
  mx-snapshot,
  mx-system-sounds,
  mx-tools,

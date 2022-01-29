@@ -4,6 +4,7 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
     apt-mark manual apt-notifier \
  bash-config \
  job-scheduler \
+ disk-manager \
  mx-boot-options \
  mx-bootrepair \
  mx-conky \
@@ -17,6 +18,7 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
  mx-remaster \
  mx-remastercc \
  mx-repo-manager \
+ mx-samba-config \
  mx-select-sound \
  mx-snapshot \
  mx-system-sounds \
