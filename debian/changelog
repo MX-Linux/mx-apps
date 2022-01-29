@@ -1,3 +1,9 @@
+mx-apps (22.01.01mx21) mx; urgency=medium
+
+  * add disk-manager & mx-samba-config
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 29 Jan 2022 16:13:10 -0500
+
 mx-apps (21.04.01mx21) mx; urgency=medium
 
   * add job-scheduler 
