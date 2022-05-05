@@ -7,6 +7,7 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
  disk-manager \
  mx-boot-options \
  mx-bootrepair \
+ cleanup-notifier-mx \
  mx-conky \
  mx-codecs \
  mx-datetime \
