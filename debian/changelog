@@ -1,3 +1,9 @@
+mx-apps (22.08.01mx21) mx; urgency=medium
+
+  * add quick-system-info-gui 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 09 Aug 2022 19:23:26 -0400
+
 mx-apps (22.05.01mx21) mx; urgency=medium
 
   * add cleanup-notifier-mx
