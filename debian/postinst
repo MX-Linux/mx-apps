@@ -27,7 +27,6 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
  mx-tweak \
  mx-usb-unmounter \
  mx-user \
- mx-viewer \
  mx-welcome \
  live-kernel-updater \
  mx-live-usb-maker \

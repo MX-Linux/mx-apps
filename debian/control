@@ -34,7 +34,6 @@ Depends:
  mx-tweak,
  mx-usb-unmounter,
  mx-user,
- mx-viewer,
  mx-welcome,
  mx-live-usb-maker,
  live-kernel-updater,
