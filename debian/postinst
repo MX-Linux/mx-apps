@@ -4,6 +4,7 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
     apt-mark manual apt-notifier \
  bash-config \
  job-scheduler \
+ deb-installer \
  disk-manager \
  mx-boot-options \
  mx-bootrepair \
