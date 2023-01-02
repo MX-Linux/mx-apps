@@ -10,6 +10,7 @@ Architecture: all
 Depends:
  apt-notifier,
  bash-config,
+ deb-installer,
  disk-manager,
  job-scheduler,
  mx-bootrepair,
