@@ -14,7 +14,6 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
  mx-datetime \
  mx-docs \
  mx-idevice-mounter \
- mx-menu-editor \
  mx-network-assistant \
  mx-packageinstaller \
  mx-remaster \

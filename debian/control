@@ -21,7 +21,6 @@ Depends:
  mx-datetime,
  mx-docs,
  mx-idevice-mounter,
- mx-menu-editor,
  mx-network-assistant,
  mx-packageinstaller,
  mx-remaster,
