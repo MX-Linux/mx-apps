@@ -17,7 +17,6 @@ Depends:
  mx-boot-options,
  cleanup-notifier-mx,
  mx-conky,
- mx-codecs,
  mx-datetime,
  mx-docs,
  mx-idevice-mounter,

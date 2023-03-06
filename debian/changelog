@@ -1,3 +1,9 @@
+mx-apps (23.07.01mx23) mx; urgency=medium
+
+  * remove mx-codecs from mx-apps
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 05 Mar 2023 21:18:28 -0500
+
 mx-apps (23.01.02mx21) mx; urgency=medium
 
   * remove mx-menu-editor
