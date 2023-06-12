@@ -19,7 +19,6 @@ Depends:
  mx-conky,
  mx-datetime,
  mx-docs,
- mx-idevice-mounter,
  mx-network-assistant,
  mx-packageinstaller,
  mx-remaster,
