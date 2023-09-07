@@ -19,6 +19,7 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
  mx-repo-manager \
  mx-samba-config \
  mx-select-sound \
+ mx-service-manager \
  mx-snapshot \
  mx-system-sounds \
  mx-tools \

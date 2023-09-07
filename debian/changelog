@@ -1,3 +1,9 @@
+mx-apps (23.09.01mx23) mx; urgency=medium
+
+  * add mx-service-manager
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 06 Sep 2023 22:52:30 -0400
+
 mx-apps (23.07.02mx23) mx; urgency=medium
 
   * remove mx-idevice-mounter
