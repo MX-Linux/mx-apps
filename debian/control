@@ -20,6 +20,7 @@ Depends:
  mx-datetime,
  mx-docs,
  mx-network-assistant,
+ mx-locale,
  mx-packageinstaller,
  mx-remaster,
  mx-remastercc,
@@ -41,6 +42,7 @@ Depends:
  ddm-mx,
  conky-toggle-mx,
  formatusb,
+ papirus-folder-colors,
  system-keyboard-qt,
  mx-cleanup
 Breaks: docs-mx,

@@ -12,6 +12,7 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
  mx-conky \
  mx-datetime \
  mx-docs \
+ mx-locale \
  mx-network-assistant \
  mx-packageinstaller \
  mx-remaster \
@@ -34,6 +35,7 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
  conky-toggle-mx \
  ddm-mx \
  formatusb \
+ papirus-folder-colors \
  system-keyboard-qt \
  mx-cleanup 
 fi

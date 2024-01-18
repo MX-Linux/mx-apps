@@ -1,3 +1,10 @@
+mx-apps (24.01.01mx23) mx; urgency=medium
+
+  * add mx-locale
+  * add papirus-folder-colors
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 17 Jan 2024 23:51:01 -0500
+
 mx-apps (23.09.01mx23) mx; urgency=medium
 
   * add mx-service-manager
