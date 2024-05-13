@@ -18,7 +18,6 @@ Depends:
  cleanup-notifier-mx,
  mx-conky,
  mx-datetime,
- mx-docs,
  mx-network-assistant,
  mx-locale,
  mx-packageinstaller,
