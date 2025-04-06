@@ -1,3 +1,9 @@
+mx-apps (25.04.01mx25) mx; urgency=medium
+
+  * temp remove apt-notifier for mx25 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 06 Apr 2025 12:37:47 -0400
+
 mx-apps (24.05.01) mx; urgency=medium
 
   * remove depend on mx-docs (now a new metapackage)

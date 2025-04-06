@@ -8,7 +8,6 @@ Standards-Version: 3.9.5
 Package: mx-apps
 Architecture: all
 Depends:
- apt-notifier,
  bash-config,
  deb-installer,
  disk-manager,
