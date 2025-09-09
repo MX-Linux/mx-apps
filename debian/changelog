@@ -1,3 +1,9 @@
+mx-apps (25.09.01mx25) mx; urgency=medium
+
+  * add mx-updater (apt-notifier replacement)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 09 Sep 2025 19:50:43 -0400
+
 mx-apps (25.04.01mx25) mx; urgency=medium
 
   * temp remove apt-notifier for mx25 

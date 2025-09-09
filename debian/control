@@ -30,6 +30,7 @@ Depends:
  mx-system-sounds,
  mx-tools,
  mx-tweak,
+ mx-updater,
  mx-usb-unmounter,
  mx-user,
  mx-welcome,

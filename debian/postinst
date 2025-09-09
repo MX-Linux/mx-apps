@@ -23,6 +23,7 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
  mx-system-sounds \
  mx-tools \
  mx-tweak \
+ mx-updater \
  mx-usb-unmounter \
  mx-user \
  mx-welcome \
