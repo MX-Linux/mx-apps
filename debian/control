@@ -43,6 +43,7 @@ Depends:
  formatusb,
  papirus-folder-colors,
  system-keyboard-qt,
+ verify-iso-sig,
  mx-cleanup
 Breaks: docs-mx,
  install-meta-mx,

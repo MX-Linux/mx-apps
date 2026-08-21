@@ -36,6 +36,7 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
  formatusb \
  papirus-folder-colors \
  system-keyboard-qt \
+ verify-iso-sig \
  mx-cleanup 
 fi
 
